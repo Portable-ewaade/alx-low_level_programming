@@ -2,10 +2,11 @@
 
 /**
  *main - A program that prints a line with puts function
+ *Description: 'the program's description'
  *return: 0 (Success)
 */
 
-int main()
+int main(void)
 {
 	puts("\"Programming is like building multilingual puzzle");
 	return (0);
