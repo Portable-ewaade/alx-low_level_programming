@@ -1,1 +1,1 @@
-This is a readme file for loop command
+This is a readme file for loop command for alx assignment
