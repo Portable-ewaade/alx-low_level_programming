@@ -1,1 +1,1 @@
-This is a readme file for loop commanid
+This is a readme file for loop command
